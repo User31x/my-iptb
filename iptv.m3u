@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Deutschland",DE - Sender
+https://iptv-org.github.io/iptv/countries/de.m3u
+
+#EXTINF:-1 group-title="Österreich",AT - Sender
+https://iptv-org.github.io/iptv/countries/at.m3u
+
+#EXTINF:-1 group-title="Türkei",TR - Sender
+https://iptv-org.github.io/iptv/countries/tr.m3u
